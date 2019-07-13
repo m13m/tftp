@@ -4,7 +4,7 @@ Trivial file transfer protocol aka TFTP it's a simple protocol to transfer file 
 
 This project implements both server and client in Elixir
 
-## Why implement this protoocl
+## Why implement this protocol
 
 * To learn more about the Network API in Erlang/Elixir
 
